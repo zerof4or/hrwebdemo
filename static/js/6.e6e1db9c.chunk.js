@@ -1,0 +1,2 @@
+(this["webpackJsonpsilver-screen-ui"]=this["webpackJsonpsilver-screen-ui"]||[]).push([[6],{334:function(e,s,c){"use strict";c.r(s);c(1);var r=c(21),t=c(116),i=c(0);s.default=function(){return Object(i.jsx)("div",{className:"account-layout-wrapper",children:Object(i.jsx)(r.g,{routes:t.a})})}}}]);
+//# sourceMappingURL=6.e6e1db9c.chunk.js.map
